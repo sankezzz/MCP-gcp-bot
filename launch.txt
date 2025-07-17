@@ -1,1 +1,1 @@
-$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\sanke\OneDrive\Desktop\MCP\MCP-bot\cred.json"
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\sanke\OneDrive\Desktop\MCP\cred.json"
